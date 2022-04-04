@@ -30,8 +30,8 @@ Desktop             |  Mobile
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/Georgetxm/sunnyside-agency/tree/master)
-- Live Site URL: [Vercel App](https://sunnyside-agency-i3d12cbca-georgetxm.vercel.app/)
+- Solution URL: [Github Repo](https://github.com/Georgetxm/crl-final-challenge)
+- Live Site URL: [Vercel App](https://crl-final-challenge-5gasbx0td-georgetxm.vercel.app/)
 
 ## My process
 
